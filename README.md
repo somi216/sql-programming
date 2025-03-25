@@ -1,3 +1,3 @@
-oracle\n
+oracle
 
 sql developer
